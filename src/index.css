@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Reset any previous theme variables and rely on App.css :root tokens */
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
