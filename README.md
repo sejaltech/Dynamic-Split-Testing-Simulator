@@ -69,6 +69,17 @@ Dynamic Split Testing Simulator is designed to demonstrate how A/B testing platf
 
 ---
 
+
+## 📸 Project Screenshots
+
+<img width="1261" height="692" alt="Screenshot 2026-06-12 at 2 15 20 PM" src="https://github.com/user-attachments/assets/527bd2eb-814b-44dd-ad8a-a492d5407e20" />
+
+<img width="833" height="514" alt="Screenshot 2026-06-12 at 2 16 23 PM" src="https://github.com/user-attachments/assets/cca7542c-38bb-4a3f-b4a3-80d3b20c619d" />
+
+
+<img width="1219" height="494" alt="Screenshot 2026-06-12 at 2 16 39 PM" src="https://github.com/user-attachments/assets/37a5b4b9-ad51-44ba-bb3f-6803de9f17dd" />
+
+
 ## 📁 Project Structure
 
 ```text
